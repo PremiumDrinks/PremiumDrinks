@@ -21,6 +21,7 @@ Sandra Ávila Salazar
 
 
 
+
 Industria y entorno del caso empresarial a desarrollar:
 
 ![imagen](https://github.com/user-attachments/assets/9cce3483-e8cd-4595-a2a3-ec30ba075069)
