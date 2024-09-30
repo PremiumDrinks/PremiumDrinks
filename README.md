@@ -26,7 +26,7 @@ Industria y entorno del caso empresarial a desarrollar:
 
 ![imagen](https://github.com/user-attachments/assets/9cce3483-e8cd-4595-a2a3-ec30ba075069)
 
-🔗LA EMPRESA 🍺🍷🍾
+LA EMPRESA 🍺🍷🍾
 
 Premium Drinks se enfoca en ofrecer un servicio personalizado, tanto en sus puntos de venta físicos como a través de su plataforma en línea.
 Su modelo de negocio incluye la venta al por mayor, dirigida a bares, restaurantes y tiendas especializadas, así como la atención directa a clientes particulares, ofreciendo promociones exclusivas y productos de edición limitada.
