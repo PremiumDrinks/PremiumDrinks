@@ -9,9 +9,13 @@ CONSULTORA: "The Borcelle" Dedicada a ayudar a los comercios en la toma de decis
 ![imagen](https://github.com/user-attachments/assets/10623915-306d-45b9-a47a-11369d7f285d)
 
 INTEGRANTES: 
+
 Bianca De Robertis 
+
 Agustín Ledesma 
+
 Gisell Dayana Mateus 
+
 Sandra Ávila Salazar 
 
 
