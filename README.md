@@ -66,6 +66,19 @@ El proyecto tiene el potencial de transformar la forma en que las empresas gesti
 Replicando esta metodología  basada en el análisis de datos, se benefician más empresas.
 
 
+Plan de Análisis de Datos:
+
+Carga y Limpieza de Datos:
+Importar y limpiar los datasets en Python, asegurando que la información esté lista para el análisis.
+
+Análisis Exploratorio:
+Realizar un análisis descriptivo inicial para entender la distribución de los datos y detectar anomalías.
+
+Análisis de Tendencias:
+Comparar las series temporales de ventas y inventarios para identificar patrones de comportamiento.
+
+Visualización de Datos:
+Crear visualizaciones interactivas en Power BI que resuman los hallazgos y faciliten la toma de decisiones.
 
 
 
