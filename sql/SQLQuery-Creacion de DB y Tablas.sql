@@ -1,8 +1,8 @@
 -- Crear la base de datos
-CREATE DATABASE BebidasDB;
+CREATE DATABASE PremiumDrinks;
 
 -- Usar la base de datos
-USE BebidasDB;
+USE PremiumDrinks;
 --Crear la tabla Vendors (Proveedores)
 CREATE TABLE Vendors (
     VendorNumber INT PRIMARY KEY,
